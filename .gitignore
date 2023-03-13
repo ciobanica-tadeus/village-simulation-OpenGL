@@ -1,0 +1,11 @@
+/target/
+/x64/
+/models/
+/glm/
+/.vs/
+
+*.doc
+*.docx
+*.txt
+*.png
+*.sql
